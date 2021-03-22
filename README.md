@@ -9,9 +9,9 @@
 
 - 🌱 I’m currently learning **React.js, laravel.**
 
-- 👨‍💻 All of my projects are available at [soon](soon)
+- 👨‍💻 All of my projects are available at [soon]
 
-- 💬 Ask me about **html, css, js, php, python**
+- 💬 Ask me about **html, css, js, php & python**
 
 - 📫 How to reach me **3k.eissa@gmail.com**
 
