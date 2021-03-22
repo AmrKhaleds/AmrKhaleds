@@ -7,9 +7,9 @@
 
 - 🔭 I’m currently working on [Videographer wibsite](mahmoud-vg.netlify.com)
 
-- 🌱 I’m currently learning **React.js, laravel.**
+- 🌱 I’m currently learning **React.js & laravel.**
 
-- 👨‍💻 All of my projects are available at [soon]
+- 👨‍💻 All of my projects are available at <SOON>
 
 - 💬 Ask me about **html, css, js, php & python**
 
