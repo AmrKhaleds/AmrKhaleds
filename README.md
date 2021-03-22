@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **React.js & laravel.**
 
-- 👨‍💻 All of my projects are available at SOON..
+- 👨‍💻 All of my projects are available at SOON...
 
 - 💬 Ask me about **html, css, js, php & python**
 
