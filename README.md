@@ -1,4 +1,4 @@
-<p align="center"> <img src="https://github.com/AmrKhaleds/AmrKhaleds/blob/main/IMG_0881.png" alt="amrkhaleds" width="700px" height="auto"/> </p>
+
 <h1 align="center">Hi 👋, I'm Amr Khaeld</h1>
 <h3 align="center">I'm a Joiner Full-Stack web Developer from <span style="color: red;">Eg</span>y<span>pt</span></h3>
 
