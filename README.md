@@ -13,12 +13,12 @@
 
 - 💬 Ask me about **html, css, js, php & python**
 
-- 📫 How to reach me **Dev.AmrKhaled@gmail.com**
+- 📫 How to reach me => **Dev.AmrKhaled@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://fb.com/3k.eissa" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="3k.eissa" height="30" width="40" /></a>
-<a href="https://instagram.com/3k_eissa" target="blank" color="white"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="3k_eissa" height="30" width="40"  /></a>
+<a href="https://instagram.com/3k_eissa" target="blank" ><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="3k_eissa" height="30" width="40"  /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
