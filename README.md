@@ -15,7 +15,7 @@
 
 - 📫 How to reach me => **AmrKhaled@DevAmr.xyz**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Contact with me:</h3>
 <p align="left">
 <a href="https://fb.com/3k.eissa" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="3k.eissa" height="30" width="40" /></a>
 <a href="https://instagram.com/3k_eissa" target="blank" ><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="3k_eissa" height="30" width="40"  /></a>
