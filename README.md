@@ -13,7 +13,7 @@
 
 <h3>About Me</h3>
 <p>
-I am currently studying Computer Science from Damanhour University. During my studies, I focused on database management and software development, and completed several projects that involved designing and implementing database systems for various clients. 
+I am currently a student in the Faculty of Computer Science at Damanhour University. During my studies, I focused on database management and software development, and completed several projects that involved designing and implementing database systems for various clients. 
 </p>
 
 <br>
