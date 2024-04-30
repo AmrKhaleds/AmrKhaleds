@@ -1,19 +1,23 @@
 
 <h1 align="center">A warm welcome to enter my Profile!👋</h1>
-<h3 align="center">I'm so excited to work with you and hope you’ll be delighted with the results.<br>I'm a Junior Software Developer from <span style="color: red;">Eg</span>y<span>pt</span></h3>
+<h3 align="center">I'm so excited to work with you and hope you’ll be delighted with the results.<br>I'm a Junior Software Engineer from <span style="color: red;">Eg</span>y<span>pt</span></h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amrkhaleds&label=Profile%20views&color=0e75b6&style=flat" alt="amrkhaleds" /> </p>
 
 
-- 🌱 I’m currently work as Junior Back-End Developer using **laravel** Framework.
+- 🌱 I’m currently work as Junior Back-End PHP Software Engineer.
 
 - 👨‍💻 All of my projects are available at <a href="https://akeissa.com" >**AKEissa.com**</a>
 
-- 📫 How to reach me => <a href="mailto:contact@akeissa.com">**Contact@AKEissa.com**</a>
+- 📫 How to reach me => <a href="mailto:dev.amrkhaled@gmail.com">**dev.amrkhaled@gmail.com**</a>
 
 <h3>About Me</h3>
 <p>
-I am currently a student in the Faculty of Computer Science at Damanhour University. During my studies, I focused on database management and software development, and completed several projects that involved designing and implementing database systems for various clients. 
+Software Engineer with one year of experience in web development, especially in PHP Laravel. I have successfully completed multiple freelance projects, creating custom websites and web applications with customized APIs that meet the diverse needs and objectives of my clients.
+
+I am currently pursuing my undergraduate degree in computer science and mathematics at Damanhour University, where I am learning the fundamental concepts and skills of software engineering. I am passionate about technology and eager to expand my knowledge and experience in the dynamic field of software development.
+
+I am looking for opportunities to collaborate with like-minded professionals, contribute to innovative and impactful projects, and hone my skills in the ever-evolving landscape of software engineering. Let's connect and explore how we can work together on exciting ventures.
 </p>
 
 <br>
