@@ -7,9 +7,9 @@
 
 - 🌱 I’m currently work as Junior Back-End PHP Software Engineer.
 
-- 👨‍💻 All of my projects are available at <a href="https://akeissa.com" >**AKEissa.com**</a>
+- 👨‍💻 All of my projects are available at <a href="https://ak-eissa.org" >**AK-Eissa.org**</a>
 
-- 📫 How to reach me => <a href="mailto:dev.amrkhaled@gmail.com">**dev.amrkhaled@gmail.com**</a>
+- 📫 How to reach me => <a href="mailto:dev.amrkhaled@gmail.com">**dev.amrkhaledeissa@gmail.com**</a>
 
 <h3>About Me</h3>
 <p>
