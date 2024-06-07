@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at <a href="https://ak-eissa.org" >**AK-Eissa.org**</a>
 
-- 📫 How to reach me => <a href="mailto:dev.amrkhaled@gmail.com">**dev.amrkhaledeissa@gmail.com**</a>
+- 📫 How to reach me => <a href="mailto:Dev.AmrKhaledEissa@gmail.com">**Dev.AmrKhaledEissa@gmail.com**</a>
 
 <h3>About Me</h3>
 <p>
